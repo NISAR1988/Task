@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+
+}
+
+.headermain{
+    height: 40px;
+    width: 100%;
+    background-color:#dd8f69;
+    display: flex;
+}
+
+.email{
+    height: 40px;
+    width: 10%;
+    color: white;
+}
+.emaillogo{
+    width: 20px;
+    margin-top: 6px;
+    margin-left: 15px;
+}
+.mobile{
+    height: 40px;
+    width: 12%;
+    color: white;
+}
+.phonelogo{
+    width: 20px;
+    margin-top: 6px;
+    margin-left: 13px;
+}
+.multiplelogo{
+    height: 40px;
+    width: 15%;
+    margin-left: 63%;
+}
+.multiplelogo :hover{
+    color: #e80c2d;
+}
+#logos{
+    width: 20px;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.header2{
+    height: 120px;
+    width: 100%;
+    display: flex;
+    background-color: #ffffff;
+}
+.companylogo{
+    height: 120px;
+    width:22%;
+    background-color:#7e69dd;
+}
+#companyimg{
+    height:150px;
+    width: 100%
+}
+
+
+.mulipleoption{
+    height: 50%;
+    width:60%;
+    margin-left: 18%;
+    margin-top: 60px;
+}
+#anchor{
+    color: #4f2e21;
+    margin-left: 4%;
+    text-decoration:none;
+    font-size: 15px;
+}
+#anchor :hover{
+    color: #e80c2d;
+}
+.anchor1{
+    color: #4f2e21;
+    margin-left: 27%;
+    text-decoration:none;
+    font-size: 15px;
+}
+.anchor1 :hover{
+    color: #e80c2d;
+}
+.main{
+    height: 600px;
+    width: 100%;
+    background-color:#e5e3e1;
+    display: flex;
+}
+.p1{
+    height: 600px;
+    width: 50%;
+}
+.p2{
+    height: 600px;
+    width: 50%;
+    background-color:darkkhaki;
+}
+.text{
+    height: 120px;
+    width: 80%;
+    background-color: rgb(241, 237, 235);
+    margin-top: 110px;
+    margin-left: 40px;
+}
+p{
+    color: #4f2e21;
+}
+h1{
+    color: #4f2e21;
+}
+.button{
+    height: 40px;
+    width: 25%;
+    background-color: #dd8f69;
+    margin-top: 15px;
+    margin-left: 40px;
+    border-radius: 20px;
+    overflow: auto;
+}
+.button:hover{
+    background-color: red;
+}
+h5{
+    font-family:Arial;
+    color: white;
+    margin-left: 25px;
+    margin-top: 12px;
+}
+.book{
+    text-decoration: none;
+}
+.book :hover{
+    color: #17dde8;
+}
+.book :visited{
+    color: aqua;
+}
